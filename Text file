@@ -1,0 +1,15 @@
+
+Instant ANswer Search API
+curl https://api.duckduckgo.com/?	q=who+is+the+prime+minister+of+india&format=json&pretty=1
+#####
+curl https://api.duckduckgo.com/?q=who+is+the+prime+minister+of+india&format=json&pretty=1
+
+
+| ESPEAK
+-v (voice)
++f3 (female voice 3)
+-p pitch
+-s speed (words per min)
+
+echo "Passengers please pay attention, train number 1,4,5,7,1, Howrah-Mumbai Express, is coming on, platform number 4. Please keep safe distance" | espeak -v +f3 -p 70 -s 150
+
