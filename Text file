@@ -13,3 +13,4 @@ curl https://api.duckduckgo.com/?q=who+is+the+prime+minister+of+india&format=jso
 
 echo "Passengers please pay attention, train number 1,4,5,7,1, Howrah-Mumbai Express, is coming on, platform number 4. Please keep safe distance" | espeak -v +f3 -p 70 -s 150
 
+
